@@ -26,7 +26,7 @@ function Hero() {
             Judge intelligently and discover a better way to manage your lifestyle
             easily.
         </p>
-        <a href="javascript:;"
+        <a href="/ChatBot"
             class="w-full md:w-auto mb-14 inline-flex items-center justify-center py-3 px-7 text-base font-semibold text-center text-white rounded-full bg-indigo-600 shadow-xs hover:bg-indigo-700 transition-all duration-500">
             Chat Bot
             <svg class="ml-2" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
