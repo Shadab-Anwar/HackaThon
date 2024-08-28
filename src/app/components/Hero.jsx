@@ -35,10 +35,10 @@ function Hero() {
                     stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
         </a>
-        <div class="flex justify-center">
+        <div class="flex justify-center ">
             <img
-            src="https://pagedone.io/asset/uploads/1691054543.png"
-            alt="Dashboard image"
+            src="https://images.prismic.io//intuzwebsite/d9daef05-a416-4e84-b0f8-2d5e2e3b58d8_A+Comprehensive+Guide+to+Building+an+AI+Chatbot%402x.png?w=2400&q=80&auto=format,compress&fm=png8"
+            alt="Dashboard image" className=' rounded-3xl mix-blend-plus-darker backdrop-blur-3xl shadow-2xl'
           />
         </div>
     </div>
