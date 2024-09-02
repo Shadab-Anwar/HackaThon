@@ -3,7 +3,7 @@ import React from 'react'
 function page() {
   return (
     <>
-    <div>
+         <div>
     <div class="flex items-center justify-center h-screen bg-gray-200">
     <div class="container">
         <div class="bg-white rounded-lg shadow-lg p-5 md:p-20 mx-2">
